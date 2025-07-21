@@ -1,0 +1,69 @@
+
+
+Holistic Annotation
+
+
+1. Compliance with task instructions
+	Please indicate whether the subject was able to follow the instructions while completing the task. If the subject was doing something differently, please describe.
+a: Completes task properly
+2. Noise
+	Please describe noticeable noise present in the audio or video data. This can be blurry video due to poor internet connection, background noise, sound from TV/radio, or an unsuitable background that impacts visibility of critical body part(s).
+a: No noticeable noise
+
+
+Annotation for Clinical Measure
+
+
+1. Rhythm
+	Are the taps regular (the interval between successive taps are almost identical) or did you observe interruptions?
+a: Interruption
+2. Interruptions
+	If you observed interruptions, mention how many times the subject was slightly
+interrupted, and how many times the subject was substantially interrupted. Please mention
+whether interruptions started early, mid, or near the end of the task, and how long it persisted
+(e.g., interruptions only impacted a few taps/half of the taps/almost all the taps).
+a: Intervals become slightly shorter with the last two taps
+3. Speed
+	Describe the speed of finger-tapping for the subject, and compare it to a typical healthy person.
+a: Normal
+4. Decrement of speed
+	As the subject kept tapping, indicate whether they became slower (or faster).
+If the taps got slower, indicate when (i.e., started to get slower early, mid, or near the end of the task), the subject started to slow down) and to what extent (i.e., slightly/moderately).
+a: No decrement
+5. Amplitude
+	Describe the amplitude of finger-tapping for the subject, and compare it to a typical healthy person.
+a: Normal
+6. Decrement of amplitude. 
+	As the subject kept tapping, indicate whether the amplitude became smaller (or larger). If the amplitude started to become smaller, indicate when (i.e., early, mid, or near the end of the task).
+a: No decrement
+7. Cannot perform the task
+	Please indicate if the subject was unable to perform the task and fall into the severe category.
+a: N/A
+
+
+Visual Annotation
+
+
+1. Overall appearance
+	Briefly describe the subject’s perceived state-of-mind (whether the subject looks energetic/exhausted/calm/confused).
+a: Subject appears confused
+2. Camera position
+	How far is the camera? A good position of the camera would be when the upper half of the subject’s body remains visible, while the lower half is not captured in the frame. If the upper body is only partly visible, the camera is too close. If the lower body is also visible, the camera is too far.
+a: Good position
+3. Background and lighting
+	Please mention if the background is overloaded (i.e., too many things), or the lighting condition is inappropriate (i.e., too dark or over-lit). Otherwise, mention “normal background”.
+a: Normal background
+4. Presence of other persons
+	If there were other persons in the background, please describe them shortly (e.g., there is another old male visible in the background).
+a: No other persons present
+5. Apparent difficulty completing the task
+	If the subject is completing a motor or speech task, please indicate whether the subject demonstrates any difficulty through their facial expressions. For example, furrowed brow, squinting eyes, clenched jaw, tight lips, head hanging low, sighing, wrinkled forehead, etc. For facial expression tasks, please ignore this and follow the task-specific MDS-UPDRS guideline.
+a: Tight lips
+6. Visibility of significant body parts
+	Indicate if any body part critical for this task is partially visible (or invisible). For example, was the subject wearing a mask that may have obstructed important visual information? Or did the hand go out of frame while the subject was tapping finger?
+a: No obstructions
+7. Observations of other body parts not being directly assessed
+	Note abnormal signs observed in other body parts not strictly relevant to the task being completed. For example, one might notice tremor of the jaw or dyskinesias while annotating performance of finger tapping.
+a: None noted
+Please mention anything relevant but not included (Leave blank if not applicable)
+a:

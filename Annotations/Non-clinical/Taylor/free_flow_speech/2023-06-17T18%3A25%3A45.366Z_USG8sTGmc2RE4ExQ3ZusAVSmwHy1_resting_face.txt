@@ -1,0 +1,124 @@
+
+
+Holistic Annotation
+
+	1. Compliance with task instructions
+Please indicate whether the subject was able to follow the instructions while completing the task. If the subject was doing something differently, please describe.
+	a: Completes task properly
+	2. Noise
+Please describe noticeable noise present in the audio or video data. This can be blurry video due to poor internet connection, background noise, sound from TV/radio, or an unsuitable background that impacts visibility of critical body part(s).
+	a: No noticeable noise
+
+
+
+Annotation for Clinical Measure
+
+
+	1. Blink rate
+Was there anything abnormal about their eye blink rate? For example, they may not be blinking at all, or blinking too much.
+	a: Slightly reduced blink rate
+	2. Masked facies
+Please indicate which of the followings are true for the subject: (i) The individual’s face appears blank and emotionless, even when they are trying to express an emotion. (ii) The expression is weak or asymmetrical, and the individual have difficulty holding an expression (e.g., smile) for an extended period.
+	a: The individual's face appears blank/emotionless; some asymmetry
+	3. Lips parting with expressions
+Indicate the extent of lips parting when the subject is speaking (i.e., always/most of the times/sometimes/very few times/never). Ignore if the subject is speaking.
+	a: N/A
+	4. Lips parting when the mouth is at rest
+Indicate the extent of lips parting when the subject is not saying anything (i.e., always/most of the times/sometimes/very few times/never).
+	a: N/A
+	5. Volume of Speech
+Please indicate if the volume is too high or too low, and whether that affects
+the quality of recorded speech
+	a: Normal volume
+	6. Loss of Volume
+Does the volume of speech remains steady or starts to degrade? If loss of volume
+happens, indicate when (e.g., shortly after start, slightly before midway, midway, slightly after midway, almost at the end).
+	a: No volume loss
+	7. Modulation Rate
+(i.e., normal, abnormal, marked abnormal) the modulation (natural variations
+in pitch, volume, and rhythm that typically characterize spoken language) of the speech. A normal modulation would mean the subject was successful in conveying emotions and intentions, emphasizing important information, and make their speech engaging and interesting.
+	a: Abnormal modulation
+	8. Loss of Modulation
+Indicate if the modulation of speech degrades over time, and mention when.
+	a: Steady loss of modulation after mid-point
+	9. Diction
+Rate (i.e., normal, abnormal, marked abnormal) the word choice and the pronunciation of words by the speaker. A normal diction would mean precisely using descriptive words and imagery to create a clear picture in the listener’s mind, and articulating them clearly.
+	a: Normal
+	10. Loss of Diction
+Indicate if the quality of word choice and articulation degrades over time, and
+mention from when.	
+	a: No loss of diction
+	11. Clarity
+Was the words spoken by the subjects easily understandable (choose: all words are easy to understand, some words are unclear but the sentences are easy to understand, some of the sentences are difficult to understand, most speech is difficult to understand)?
+	a: Some of the sentences are difficult to understand
+	12. Slurring
+Mention whether slurring was observed. Slurring refers to the difficulty pronouncing words clearly and distinctly. Rate the severity of slurring (i.e., normal, mild, moderate, severe).
+	a: Normal
+	13.Palilalia
+If the subject repeated some syllables, please mention (and to what extent the repetitions happened).
+	a: A few instances
+	14. Tachyphemia
+Indicate if observed: the subject is speaking too fast (rapid speech), and running
+syllables together.
+	a: No tachyphemia
+
+
+Visual Annotation
+
+
+	1. Overall appearance
+Briefly describe the subject’s perceived state-of-mind (whether the subject looks energetic/exhausted/calm/confused).
+	a: Subject appears calm
+	2. Camera position
+How far is the camera? A good position of the camera would be when the upper half of the subject’s body remains visible, while the lower half is not captured in the frame. If the upper body is only partly visible, the camera is too close. If the lower body is also visible, the camera is too far.
+	a: Subject is visible from chest up
+	3. Background and lighting
+Please mention if the background is overloaded (i.e., too many things), or the lighting condition is inappropriate (i.e., too dark or over-lit). Otherwise, mention “normal background”.
+	a: Normal background
+	4. Presence of other persons
+If there were other persons in the background, please describe them shortly (e.g., there is another old male visible in the background).
+	a: Man fully in camera for first 4 seconds
+	5. Apparent difficulty completing the task
+If the subject is completing a motor or speech task, please indicate whether the subject demonstrates any difficulty through their facial expressions. For example, furrowed brow, squinting eyes, clenched jaw, tight lips, head hanging low, sighing, wrinkled forehead, etc. For facial expression tasks, please ignore this and follow the task-specific MDS-UPDRS guideline.
+	a: Wrinkled forehead
+	6. Visibility of significant body parts
+Indicate if any body part critical for this task is partially visible (or invisible). For example, was the subject wearing a mask that may have obstructed important visual information? Or did the hand go out of frame while the subject was tapping finger?
+	a: No obstructions
+	7. Observations of other body parts not being directly assessed
+Note abnormal signs observed in other body parts not strictly relevant to the task being completed. For example, one might notice tremor of the jaw or dyskinesias while annotating performance of finger tapping.
+	a: None noted
+	8. Other
+Please mention anything relevant but not included (Leave blank if not applicable)
+	a: 
+
+
+Acoustic Annotation
+
+
+	1. Native Speaker
+	a: Yes
+	2 Reasons for Reduced Understandability (if applicable)
+Was there any background noise that made
+it difficult to understand their speech? Or was it due to the hoarseness or other characteristics present in the subject’s voice? Or was it due to English not being their native language?
+	a: I believe due to hoarseness
+	3. Pauses or Stuttering
+How frequently did the subject demonstrated pausing or stuttering? Was the speech interrupted a lot?
+	a: Some brief pauses
+	4. Other
+Please mention anything relevant but not included (Leave blank if not applicable)
+	a: Subject speaks at a slowed rhythm
+
+
+Language Annotation
+
+
+	1. Coherence
+Is the subject coherent in what they are speaking? Are they delivering an easy to understand story, or are they deterring a lot from the central topic and delivering an unorganized speech?
+	a: Normal coherence; easy to understand
+	2. Usage of complex sentences
+Indicate if the subject is using complex sentences that are difficult to understand?
+	a: None
+	3. Other
+Please mention anything relevant but not included (Leave blank if not applicable)
+	a: 
+

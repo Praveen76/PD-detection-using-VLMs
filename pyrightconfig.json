@@ -1,0 +1,13 @@
+{
+  "exclude": [
+    "/scratch/panwla/miniconda3",
+    "/scratch/panwla/conda_envs",
+    "/scratch/panwla/conda_pkgs",
+    "/scratch/panwla/huggingface_cache",
+    "/scratch/panwla/tmp",
+    "/scratch/panwla/models",
+    "/scratch/panwla/torch",
+    "/scratch/panwla/cache",
+    "/scratch/panwla/offload"
+  ]
+}

@@ -1,0 +1,8 @@
+
+
+Holistic Annotation
+
+	1. Compliance with task instructions
+Please indicate whether the subject was able to follow the instructions while completing the task. If the subject was doing something differently, please describe.
+	a: Does not complete task properly; no audio
+

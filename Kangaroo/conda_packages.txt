@@ -1,0 +1,11 @@
+numpy=1.24.0
+ninja=1.11.1
+psutil=5.9.5
+packaging=24.1
+pillow=10.4.0
+timm=0.9.16
+transformers=4.41.0
+streamlit=1.36.0
+accelerate=0.25.0
+
+# conda install -y -c conda-forge --file conda_packages.txt || true

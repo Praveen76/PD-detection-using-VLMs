@@ -1,0 +1,12 @@
+*.mp4
+*.ipynb_checkpoints/
+Videos/Videos/all_file_user_metadata.csv
+Videos/all_file_user_metadata.csv
+Kangaroo/cuda-repo-rhel8-11-8-local-11.8.0_520.61.05-1.x86_64.rpm
+SmileFeatures/LandmarkFeatures/mediapipe_features_all_task.csv
+SmileFeatures/OpenfaceFeatures/openface_features_all_task.csv
+practice/temporary.png
+SurrogateFeatures/LandmarkFeatures/ahhhh-mediapipe_features.csv
+SurrogateFeatures/LandmarkFeatures/quick_brown_fox-mediapipe_features.csv
+SurrogateFeatures/LandmarkFeatures/extend_arm-mediapipe_features.csv
+Metadata/all_file_user_metadata.csv
